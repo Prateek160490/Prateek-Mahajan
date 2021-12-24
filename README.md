@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Prateek160490
-- 👀 I’m interested in Coding in ServiceNow Platform
-- 🌱 I’m currently learning ServiceNow
+- 👋 Hi, I’m @Prateekmahajan
+- 👀 I’m interested in Cloud Technology
+- 🌱 I’m currently learning AWS
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
